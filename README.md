@@ -1,5 +1,5 @@
 
-# Clase sobre la Terminal Unix
+# Terminal Unix
 
 ## Índice
 
@@ -245,7 +245,7 @@ Este ejercicio demuestra el uso de varios conceptos y comandos de Unix:
 
 ## 8. Recursos Adicionales
 
--[Terminal Unix](https://www.canva.com/design/DAGeDV1annM/a3ALa0bMwdxfYurrJMJgDg/edit?utm_content=DAGeDV1annM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Terminal Unix presentación de Canva](https://www.canva.com/design/DAGeDV1annM/a3ALa0bMwdxfYurrJMJgDg/edit?utm_content=DAGeDV1annM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [The Linux Command Line, de William Shotts](https://www.libristo.es/es/libro/linux-command-line_20296719?gad_source=1&gclid=CjwKCAiA3Na5BhAZEiwAzrfagEd1paD4YBgfsahA8_4v4mcCKIJz7uKOZP0oORmCUlifzNsOt0wfnBoCQs0QAvD_BwE) - Un libro completo sobre la línea de comandos de Linux.
 - [Explainshell](https://explainshell.com/) - Una herramienta web que explica comandos de shell.
 - [Unix & Linux Stack Exchange](https://unix.stackexchange.com/) - Foro de preguntas y respuestas sobre Unix y Linux.
