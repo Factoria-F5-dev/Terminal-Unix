@@ -250,4 +250,4 @@ Este ejercicio demuestra el uso de varios conceptos y comandos de Unix:
 - [Unix & Linux Stack Exchange](https://unix.stackexchange.com/) - Foro de preguntas y respuestas sobre Unix y Linux.
 - [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners) - Tutorial para principiantes sobre scripting en Bash.
 - [RegexOne](https://regexone.com/) - Curso interactivo para aprender expresiones regulares, útiles en la línea de comandos.
-- [ Terminal/shell de UNIX vídeo introductorio ] - (https://www.youtube.com/watch?v=GB35Eyb-J4c) 
+- [ Terminal/shell de UNIX vídeo introductorio ](https://www.youtube.com/watch?v=GB35Eyb-J4c) 
